@@ -1,14 +1,5 @@
-New Update!!! This is the first new version in 4 months. Whats new? you may ask.
-New Stuff:
-Cosmetics (go upstairs to get them)
-A Spawn Home
-Name change computer
-Better Multiplayer (new software)
-Better Gravity (no floating)
-Head Spinning Should be gone now
-Ladder to the cave overlooking the pit
-More diverse Floara (trees)
-And probably so much more!
+BETA BUILD!!! "roomie"
+New beta assesing lots of things like names that stay across sessions, room joining, and more.
 
 
 

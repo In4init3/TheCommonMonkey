@@ -1,14 +1,15 @@
-Alpha 2 Has released! New Stuff out.
-Whats New?
-- Horror Gamemode
-- Better Computer for Joining Rooms
-- Backrooms
-- New Spawn Hub Area
-- Better Hitsounds
-- Authentication
-- Banning
-- Better Textures
-This update is BIG and has lots of new stuff and content to enjoy, iv hope you like the changes because your opinion can change the game forever.
+Hello Everyone! Alpha V3 has released.
+Small Update for today, but has some good QualityOf Life changes.
+Updates:
+- Fixed Backrooms
+- Added a credits map
+- Updated horror a bit
+- Made it so colors work
+- Added a player model
+- updated collisions
+- should've made it compatible with app lab
+These updates aren't much but should make the game better to play. Have Fun!
 
-          
-            <3 Made with love by In4init3 <3
+
+
+            <3 Made With Love By In4init3 <3

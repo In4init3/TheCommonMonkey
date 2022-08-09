@@ -1,15 +1,9 @@
-Hello Everyone! Alpha V3 has released.
-Small Update for today, but has some good QualityOf Life changes.
-Updates:
-- Fixed Backrooms
-- Added a credits map
-- Updated horror a bit
-- Made it so colors work
-- Added a player model
-- updated collisions
-- should've made it compatible with app lab
-These updates aren't much but should make the game better to play. Have Fun!
+Alpha 2 Released! There are many new changes in this update and some removed features! Check it out.
+- removed the player model because it was buggy
+-added a keystore but its not gonna get on app lab
+- added a parkour map, doesn't work yet but should
+- the computer may still be scuffed, we will never know.
+- made the horror map a bit better
+TO SIDEQUEST: I dont think this game is a low quality gtag fangame, i know it is but i feel like its kinda mid in quality
 
-
-
-            <3 Made With Love By In4init3 <3
+          <3 Made with love by In4init3 <3

@@ -1,4 +1,4 @@
-Alpha 2 Released! There are many new changes in this update and some removed features! Check it out.
+Alpha 4 Released! There are many new changes in this update and some removed features! Check it out.
 - removed the player model because it was buggy
 -added a keystore but its not gonna get on app lab
 - added a parkour map, doesn't work yet but should

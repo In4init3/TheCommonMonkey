@@ -1,9 +1,14 @@
-Alpha 4 Released! There are many new changes in this update and some removed features! Check it out.
-- removed the player model because it was buggy
--added a keystore but its not gonna get on app lab
-- added a parkour map, doesn't work yet but should
-- the computer may still be scuffed, we will never know.
-- made the horror map a bit better
-TO SIDEQUEST: I dont think this game is a low quality gtag fangame, i know it is but i feel like its kinda mid in quality
-
-          <3 Made with love by In4init3 <3
+The Common Monkey Alpha 5 Released!
+There are many new features to be hold in this update. Whats New?
+- Added a simple test for currency, you get 1k a day.
+- Added turning and the color sliders
+on the computer (idk if the turning works)
+- Finalized Horror
+- Working on a rising lava map
+- Added WIP Dev cosmetics
+- fixed the credits map
+- Removed most gorilal tag references
+so i can get the game on applab soon.
+These updates will help out the game so i 
+can be atleast ABLE to get the game onto
+The applab store. Which will get my game onto the mainstream!
